@@ -1,0 +1,187 @@
+// Place all the styles related to the Welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+
+
+.text-muted {
+  font-size: 16px;
+}
+
+.arrow-wrap {
+  position:relative;
+  z-index:1;
+  left:50%;
+  top:1em;
+  margin-left:-5em;
+  background:#111;
+  width:10em;
+  height:10em;
+  padding:4em 2em;
+  border-radius:50%;
+  font-size:0.5em;
+  display:block;
+}
+
+.arrow {
+  float:left;
+  position:relative;
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 3em 3em 0 3em;
+  border-color: #ffffff transparent transparent transparent;
+  -webkit-transform:rotate(360deg)!important;
+}
+
+.arrow:after {
+  content:'';
+  position:absolute;
+  top:-3.2em;
+  left:-3em;
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 3em 3em 0 3em;
+  border-color: #111 transparent transparent transparent;
+  -webkit-transform:rotate(360deg)
+}
+
+@-webkit-keyframes arrows {
+  0% { top:0; }
+  10% { top:12%; }
+  20% { top:0; }
+  30% { top:12%; }
+  40% { top:-12%; }
+  50% { top:12%; }
+  60% { top:0; }
+  70% { top:12%; }
+  80% { top:-12%; }
+  90% { top:12%; }
+  100% { top:0; }
+}
+
+.arrow-wrap .arrow {
+  -webkit-animation: arrows 2.8s 0.4s;
+  -webkit-animation-delay: 3s!important ;
+}
+
+
+
+
+
+
+.fa-4x {
+  font-size: 5em!important;
+}
+
+
+h3 {
+  text-align: center;
+  font-size: 40px!important;
+  font-weight: bold!important;
+
+  text-shadow: 0px 1px 1px #4d4d4d;
+  color: #222!important;
+  font: 80px 'LeagueGothicRegular';
+}
+
+.title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+  background: rgba(138, 134, 137,0.4);
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+
+}
+
+
+h1 {
+  text-transform: uppercase;
+  margin: 0;
+  font-size: 3rem;
+  white-space: nowrap;
+  color: red;
+}
+
+
+p {
+  margin: 25px 0px 10px!important;
+  font-size: 17.3px;
+  font-family: 'Exo 2', sans-serif;
+}
+
+
+
+
+h2 {
+  font-size: 27px
+  !important;
+  font-family: 'Righteous', cursive
+  !important;
+}
+
+
+
+body {
+  font-family: 'Exo 2', sans-serif
+  !important;
+}
+
+
+
+
+.fbcolor {
+  color: #3b5998;
+}
+.twcolor {
+  color: #4099FF;
+} 
+.incolor {
+  color: #9b6954;
+}
+
+
+
+.background_image
+{
+  background-image: url(/assets/mainpic.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  background-size: cover;
+  height: 100vh;
+}
+
+
+
+.ourpics {
+  max-height: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+.image { 
+  position: relative; 
+  width: 100%; /* for IE 6 */
+}
+
+
