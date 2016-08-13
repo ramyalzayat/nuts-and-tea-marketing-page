@@ -53619,3 +53619,24 @@ Started GET "/assets/mhd-4a8bc25ec4d725be4a0b97d0c2cb2a1a4ed729021c930336b73759f
 
 
 Started GET "/assets/rami-79e6ef9c4d9f0b02b94fc07de35b023f974869dbd83a89e64935d9dccf3b25a2.jpg" for 127.0.0.1 at 2016-08-13 01:50:29 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2016-08-13 02:37:53 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (7049.2ms)
+Completed 200 OK in 7180ms (Views: 7173.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-08-13 02:38:01 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 35ms (Views: 34.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-246b46a09c1ca8642f91c8ea287040d8e7ee58bb827e29506b3e9d58c3caaad8.css?body=1" for 127.0.0.1 at 2016-08-13 02:38:01 +0200
+
+
+Started GET "/assets/mainpic-bcd15fbbddeef41755fe3bf64abe11ebc7a4612105c91e1ae45c17a6fb8fd59f.jpg" for 127.0.0.1 at 2016-08-13 02:38:01 +0200
+
+
+Started GET "/assets/mainpic.jpg" for 127.0.0.1 at 2016-08-13 02:38:01 +0200
