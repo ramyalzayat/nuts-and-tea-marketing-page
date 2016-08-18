@@ -53640,3 +53640,24 @@ Started GET "/assets/mainpic-bcd15fbbddeef41755fe3bf64abe11ebc7a4612105c91e1ae45
 
 
 Started GET "/assets/mainpic.jpg" for 127.0.0.1 at 2016-08-13 02:38:01 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2016-08-19 01:27:23 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (4310.4ms)
+Completed 200 OK in 4450ms (Views: 4442.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-08-19 01:27:27 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 41ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.self-246b46a09c1ca8642f91c8ea287040d8e7ee58bb827e29506b3e9d58c3caaad8.css?body=1" for 127.0.0.1 at 2016-08-19 01:27:28 +0200
+
+
+Started GET "/assets/mainpic-bcd15fbbddeef41755fe3bf64abe11ebc7a4612105c91e1ae45c17a6fb8fd59f.jpg" for 127.0.0.1 at 2016-08-19 01:27:28 +0200
+
+
+Started GET "/assets/mainpic.jpg" for 127.0.0.1 at 2016-08-19 01:27:28 +0200
