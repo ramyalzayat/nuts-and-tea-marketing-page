@@ -2,6 +2,8 @@
 SitemapGenerator::Sitemap.default_host = "http://www.nutsandtea.tk"
 
 SitemapGenerator::Sitemap.create do
+    add '/', :changefreq => 'daily', :priority => 0.9
+
   # Put links creation logic here.
   #
   # The root path '/' and sitemap index file are added automatically for you.
@@ -24,5 +26,6 @@ SitemapGenerator::Sitemap.create do
   #   Article.find_each do |article|
   #     add article_path(article), :lastmod => article.updated_at
   #   end
-  SitemapGenerator::Sitemap.ping_search_engines('http://www.nutsandtea.tk/sitemap.xml.gz')
 end
+SitemapGenerator::Sitemap.ping_search_engines('http://www.nutsandtea.tk/sitemap.xml.gz')
+
