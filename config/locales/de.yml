@@ -1,0 +1,24 @@
+
+de:
+  idea:
+    title: "Die Idee hinter der Webseite"
+    text: "Bombardierung, körperliche Angriffe, Terror, Hunger und Ungerechtigkeit sind mehr als genügend Gründe für Millionen ihre Häuser zu verlassen, ihre Lebenswerke und Arbeitstellen aufzugeben für nichts weiter als eine Chance auf Stabilität Übersee."
+    text2: "Jeder von uns hat eine Geschichte darüber zu erzählen, wie man ein angemessenes Leben verfolgt auf diesem Planeten, den wir uns teilen. "
+    
+  share:
+    title: "Teile deine Geschichte mit uns."
+    text: "Nuts and Tea, möchte das menschliche Bedürfnis ansprechen, die Handlungen anderer zu verstehen, unabhängig von deren Kultur, Sprache oder Religion. Wir hoffen, dass diese Plattform neue Wege der Kommunikation eröffnet."
+
+  why:
+    title: "Warum"
+    text:  "Wenn man einen Film schaut, dann braucht man Popcorn - aber wenn du einer Geschichte lauschst, dann brauchst du Nüsse und Tee."
+
+  who:
+    title: "Wer sind wir?"  
+    aboutus1: "Nuts & Tea ist das Geistesprodukt zweier Syrer in Berlin: Eines Technikbegeisterten aus Saudi Arabien, der seit seiner Kindheit Computer repariert und einem Absolventen der Business Administation, der in Libyen, Ägypten und der Türkei lebte, bevor er sich nach Deutschland aufmachte - Zu Fuß."
+    aboutus2: "Konfrontiert mit einer neuen Sprache, Kultur und einem andere Lebenstil, weit weg von ihren Familien, möchten beide die Geschichte hinter der Entscheidung erzählen, alles hinter sich zu lassen, so wie sie von so vielen getroffen wird. "
+    aboutus3: "Die Nuts & Tea Plattform wurde erstellt von Rami und Muhammed als Teil des Refugees on Rails Berlin Programms unter Verwendung von Ruby-on-Rails, JavaScript, HTML & CSS."
+
+  subscribe: 
+    title: "Abonniere die Seite um die neusten Updates zu erhalten."
+    button: "Jetzt abonnieren!"

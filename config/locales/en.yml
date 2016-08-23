@@ -1,23 +1,24 @@
-# Files in the config/locales directory are used for internationalization
-# and are automatically loaded by Rails. If you want to use locales other
-# than English, add the necessary files in this directory.
-#
-# To use the locales, use `I18n.t`:
-#
-#     I18n.t 'hello'
-#
-# In views, this is aliased to just `t`:
-#
-#     <%= t('hello') %>
-#
-# To use a different locale, set it with `I18n.locale`:
-#
-#     I18n.locale = :es
-#
-# This would use the information in config/locales/es.yml.
-#
-# To learn more, please read the Rails Internationalization guide
-# available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  idea:
+    title: "The idea of the site"
+    text: "Bombing, physical assault, terror, starvation, and injustice are more than enough reason for millions to flee their homes, abandoning lifetimes of work and position for only a chance at stability overseas."
+    text2: "Each of us has a story to tell about how to pursue a decent life on this planet we share."
+
+  share:
+    title: "Share your story with us"
+    text: "Nuts and Tea, speaks to the human desire to understand the actions of others, whatever their culture, language, or religion. We hope this platform opens new channels of communication."
+
+  why:
+    title: "Why"
+    text:  "If you watch a movie you need popcorn - but if you read a story, then you need Nuts & Tea."
+
+  who:
+    title: "Who Are We?"
+    aboutus1: "Nuts and Tea is the brainchild of two Syrians in Berlin: a tech aficionado raised in Saudi Arabia, who's been fixing computers since he was a kid, and a business administration graduate who lived in Libya, Egypt, and Turkey, before heading to Germany - on foot."
+    aboutus2: "Faced with a new language, culture, and style of living (far from their families) both wanted to tell the stories behind the decision to leave everything behind, that has been made by so many."
+    aboutus3: "The Nuts and Tea platform was built by Rami and Muhammed as part of the Refugees on Rails Berlin program using Ruby-on-Rails, JavaScript, HTML & CSS."
+
+  subscribe: 
+    title: "Subscribe to get updates about our site."
+    button: "subscribe now!"

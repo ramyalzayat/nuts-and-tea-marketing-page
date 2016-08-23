@@ -1,0 +1,24 @@
+
+fr:
+  idea:
+    title: "l'idée du site"
+    text: "Bombardement, agression physique , la terreur , la famine et l'injustice sont plus que des raisons suffisantes pour des millions qui sont ammenés à fuir leurs maisons , abandonnant une vie, un travail, un statut social pour seulement une chance de survie et stabilité à l'étranger."
+    text2: "Chacun de nous à une histoire a raconter pour savoir comment nous pouvons poursuivre une vie décente sur cette planète que nous partageons "
+
+  share:
+    title: "Partage ton histoire avec nous"
+    text: "Noix et Thé parle aux humains et désire comprendre les actions de chacun, quelques soient leurs cultures, langues ou religions. Nous espérons que cette plateforme ouvrira de nouveaux moyens de communications"
+
+  why:
+    title: "Pourquoi"
+    text:  "Si vous regarder un film vous avez besoin de pop corn, alors si vous lisez un livre, vous aurez besoin de Noix et de thé "
+
+  who:
+    title: "Qui sommes nous ?"
+    aboutus1: " Noix et thé est le fruit de deux Syriens à Berlin : un passionné de technologie élevé en Arabie Saoudite , qui s'occupe de réparer des ordinateurs dès son enfance, et d'un autre coté un diplômé en administration des affaires qui a vécu en Libye , Egypte et Turquie , avant de se rendre Allemagne - à pied ."
+    aboutus2: "Faire face à une nouvelle langue, culture et un mode de vie différent ( loin de leur famille ). Ensemble ils ont voulu raconter leurs histoires : leurs décisions de tout laisser dérrière eux, comme beaucoup ont dut le faire."
+    aboutus3: "Noix et Thé est une plateforme créer par Rami et Muhammed dans le cadre du programme The Refugees on the Rails Berlin utilisant Ruby-on-Rails, JavaScript, HTML & CSS"
+
+  subscribe: 
+    title: "S'incrire pour recevoir des nouvelles à propos de notre site"
+    button: "S'incrire maintenant !"
