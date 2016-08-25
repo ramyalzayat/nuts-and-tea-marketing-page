@@ -19,6 +19,9 @@ get "sitemap" => "pages#sitemap"
      root to: 'welcome#index'
    end
 
+  get "" => "welcome#index"
+   
+
   # Example resource route with options:
   #   resources :products do
   #     member do
